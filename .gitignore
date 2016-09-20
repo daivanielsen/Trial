@@ -1,6 +1,10 @@
 ## File that tells git what to ignore
 
-~Thumbs.db
+~
+*.blf
+*.regtrans-ms
+nano.rc
+Thumbs.db
 pgm.asv
 NTUSER.DAT
 ntuser.dat.LOG1
