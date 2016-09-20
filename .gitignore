@@ -1,6 +1,11 @@
 ## File that tells git what to ignore
 
-~*
+~Thumbs.db
+pgm.asv
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
 Anaconda/
 AppData/
 Contacts/
@@ -11,3 +16,9 @@ Dropbox/
 Favorites/
 Links/
 Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
